@@ -69,8 +69,7 @@ int main(){
 
     //cout<<str4.find("helloWorld")<<endl;
 
-
-    int a=1234;
+    int a=1237;
     string s6= to_string(a);
     cout<<s6<<endl;
     s6[2]='5';
